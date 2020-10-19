@@ -1,9 +1,10 @@
 en preparació (octubre 2020)
 
-# covid-vigilancia-public
-dades públiques plataforma covid vigilància
+# sars-aigues
+- Concentració de diverses dianes del sars-cov2 calculades a 56 depuradores catalanes, expressades en CG/L (còpies genòmiques per litre d'aigua residual).
+- Dades públiques plataforma covid-vigilància.
 
 ## estructura
-- fitxers csv per cada depuradora
+- fitxer csv
 - el repositori serà linkat amb un DOI utilitzant l'eina zenodo
 - https://guides.github.com/activities/citable-code/
