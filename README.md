@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/305428520.svg)](https://zenodo.org/badge/latestdoi/305428520)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4244774.svg)](https://doi.org/10.5281/zenodo.4244774)
+
 
 # sars-aigues v1.3
 - Dades públiques extretes de la plataforma covid-vigilancia desenvolupada per ICRA.
