@@ -1,0 +1,452 @@
+{
+  "license": "other-open",
+    "contributors": [
+    {
+      "affiliation": "Aig\u00fces Zona Metropolitana BCN",
+      "type": "Other",
+      "name": "Merc\u00e8 Aceves-Torrents"
+    },
+    {
+      "affiliation": "Head of Sant Feliu del Llobregat WWTP",
+      "type": "Other",
+      "name": "Elisenda Alba-Pla"
+    },
+    {
+      "affiliation": "Head of Montorn\u00e8s del Vall\u00e8s WWTP",
+      "type": "Other",
+      "name": "Antonio Alonso"
+    },
+    {
+      "affiliation": "Head of Riera de la Bisbal WWTP",
+      "type": "Other",
+      "name": "Tom\u00e0s Barranco"
+    },
+    {
+      "affiliation": "Head of T\u00e0rrega WWTP",
+      "type": "Other",
+      "name": "David Batalla"
+    },
+    {
+      "affiliation": "Head of Bes\u00f2s WWTP",
+      "type": "Other",
+      "name": "Ignasi Batall\u00e9-Barber"
+    },
+    {
+      "affiliation": "Head of Vilafranca del Pened\u00e8s WWTP",
+      "type": "Other",
+      "name": "Pilar Boira"
+    },
+    {
+      "affiliation": "Head of Olot WWTP",
+      "type": "Other",
+      "name": "Esther Bosch"
+    },
+    {
+      "affiliation": "Head of Reus WWTP",
+      "type": "Other",
+      "name": "Jaume Cabr\u00e9"
+    },
+    {
+      "affiliation": "Head of Vilanova i la Geltr\u00fa WWTP",
+      "type": "Other",
+      "name": "Claudia Carbonell-Correas"
+    },
+    {
+      "affiliation": "Head of M\u00f3ra d'Ebre/Mora la Nova WWTP",
+      "type": "Other",
+      "name": "Maribel Carrasco-Llop"
+    },
+    {
+      "affiliation": "Head of Montferrer WWTP",
+      "type": "Other",
+      "name": "Josep Maria Colell-Joval"
+    },
+    {
+      "affiliation": "Head of Blanes i Lloret de Mar WWTPs",
+      "type": "Other",
+      "name": "Amanda Con"
+    },
+    {
+      "affiliation": "Head of Banyoles WWTP",
+      "type": "Other",
+      "name": "Sunsi Ferrer"
+    },
+    {
+      "affiliation": "Head of Tarragona WWTP",
+      "type": "Other",
+      "name": "Ivan Fraga"
+    },
+    {
+      "affiliation": "Head of Solsona WWTP",
+      "type": "Other",
+      "name": "Josep Freixes-Jalmar"
+    },
+    {
+      "affiliation": "Head of Terrassa WWTP",
+      "type": "Other",
+      "name": "I\u00f1aqui Garcia"
+    },
+    {
+      "affiliation": "Head of Gav\u00e0/Viladecans WWTP",
+      "type": "Other",
+      "name": "Josep Gass\u00f3"
+    },
+    {
+      "affiliation": "Head of Sallent/Art\u00e8s WWTP",
+      "type": "Other",
+      "name": "\u00c0ngels Gil-Perez"
+    },
+    {
+      "affiliation": "Head of Roses WWTP",
+      "type": "Other",
+      "name": "Anna Huget"
+    },
+    {
+      "affiliation": "Head of Vic WWTP",
+      "type": "Other",
+      "name": "Maria Jou"
+    },
+    {
+      "affiliation": "Head of Montcada WWTP",
+      "type": "Other",
+      "name": "Carlos A Juncal"
+    },
+    {
+      "affiliation": "Head of Figueres WWTP",
+      "type": "Other",
+      "name": "Ra\u00fcl Lattre"
+    },
+    {
+      "affiliation": "Head of Balaguer WWTP",
+      "type": "Other",
+      "name": "\u00c1ngel L\u00e1zaro-Gast\u00f3n"
+    },
+    {
+      "affiliation": "Head of Manlleu WWTP",
+      "type": "Other",
+      "name": "Marta Llopis"
+    },
+    {
+      "affiliation": "Head of Manresa WWTP",
+      "type": "Other",
+      "name": "Anna Lup\u00f3n"
+    },
+    {
+      "affiliation": "Head of La Llagosta WWTP",
+      "type": "Other",
+      "name": "Beatriz Luque"
+    },
+    {
+      "affiliation": "Head of Valls WWTP",
+      "type": "Other",
+      "name": "Meritxell Mart\u00ed"
+    },
+    {
+      "affiliation": "Head of Vilaseca/Salou WWTP",
+      "type": "Other",
+      "name": "Mireia Mart\u00ednez"
+    },
+    {
+      "affiliation": "Consorci Bes\u00f3s-Tordera",
+      "type": "Other",
+      "name": "Bego\u00f1a Mart\u00ednez"
+    },
+    {
+      "affiliation": "Head of Abrera WWTP",
+      "type": "Other",
+      "name": "Eduard Molin\u00e9"
+    },
+    {
+      "affiliation": "Head of Castell-Platja d'Aro i Palam\u00f3s WWTPs",
+      "type": "Other",
+      "name": "Jordi Mu\u00f1oz"
+    },
+    {
+      "affiliation": "Head of Granollers WWTP",
+      "type": "Other",
+      "name": "Oscar Olazabal"
+    },
+    {
+      "affiliation": "Head of Lleida WWTP",
+      "type": "Other",
+      "name": "Jordi Palatsi-Civit"
+    },
+    {
+      "affiliation": "Consorci Costa Brava",
+      "type": "Other",
+      "name": "Enric Pallar\u00e8s"
+    },
+    {
+      "affiliation": "Head of Les Borges Blanques WWTP",
+      "type": "Other",
+      "name": "Montser Palomes-Fern\u00e1ndez"
+    },
+    {
+      "affiliation": "Head of Rub\u00ed WWTP",
+      "type": "Other",
+      "name": "Jordi Palomo"
+    },
+    {
+      "affiliation": "Head of Vielha e Mijaran WWTP",
+      "type": "Other",
+      "name": "Emilio Pa\u00f1art-Mur"
+    },
+    {
+      "affiliation": "Head of Fondarella WWTP",
+      "type": "Other",
+      "name": "Santi Pelegr\u00ed"
+    },
+    {
+      "affiliation": "Head of Sort i Tremp WWTPs",
+      "type": "Other",
+      "name": "\u00c0ngel Perati-Lloan"
+    },
+    {
+      "affiliation": "Head of Cervera WWTP",
+      "type": "Other",
+      "name": "M\u00f3nica Porroche"
+    },
+    {
+      "affiliation": "Head of El Pont de Suert WWTP",
+      "type": "Other",
+      "name": "Josep Pueyo-Farrero"
+    },
+    {
+      "affiliation": "Head of Girona WWTP",
+      "type": "Other",
+      "name": "Cristina Pujol"
+    },
+    {
+      "affiliation": "Head of Amposta WWTP",
+      "type": "Other",
+      "name": "Sergi Rebull"
+    },
+    {
+      "affiliation": "Head of Sabadell/Riu Sec WWTP",
+      "type": "Other",
+      "name": "\u00c0lex Rodero"
+    },
+    {
+      "affiliation": "Head of Berga WWTP",
+      "type": "Other",
+      "name": "Alba Rovira i Casas"
+    },
+    {
+      "affiliation": "Head of Igualada WWTP",
+      "type": "Other",
+      "name": "Jos\u00e9 A S\u00e1nchez"
+    },
+    {
+      "affiliation": "Head of Montblanc WWTP",
+      "type": "Other",
+      "name": "Noem\u00ed Segura"
+    },
+    {
+      "affiliation": "Head of Falset WWTP",
+      "type": "Other",
+      "name": "Jose M Sempere-Pico"
+    },
+    {
+      "affiliation": "Head of Gandesa WWTP",
+      "type": "Other",
+      "name": "N\u00faria Sol\u00e9-Llombart"
+    },
+    {
+      "affiliation": "Head of Ripoll WWTP",
+      "type": "Other",
+      "name": "Josep M Tard\u00e0-Torrabadella"
+    },
+    {
+      "affiliation": "Head of Matar\u00f3 WWTP",
+      "type": "Other",
+      "name": "Eva Torrecillas"
+    },
+    {
+      "affiliation": "Head of Martorell WWTP",
+      "type": "Other",
+      "name": "I\u00f1igo Urruchi"
+    },
+    {
+      "affiliation": "Head of El Prat de Llobregat WWTP",
+      "type": "Other",
+      "name": "\u00c0ngels Vidal-Nogu\u00e9"
+    },
+    {
+      "affiliation": "Head of Puigcerd\u00e0 WWTP",
+      "type": "Other",
+      "name": "Salvador Vilella-Vilalta"
+    },
+    {
+      "affiliation": "Head of Tortosa-Roquetes WWTP",
+      "type": "Other",
+      "name": "Helena Villagrasa"
+    }
+  ],
+  "language": "cat",
+  "title": "Catalan Surveillance Network of SARS-CoV-2 in Sewage",
+  "related_identifiers": [
+  {
+    "scheme": "url",
+    "identifier": "https://github.com/laura-guerrero-latorre/sars-aigues/tree/1.3",
+    "relation": "isSupplementTo"
+  },
+  {
+    "scheme": "doi",
+    "identifier": "10.5281/zenodo.4147073",
+    "relation": "isVersionOf"
+  }
+  ],
+  "notes": "This program is funded by the Catalan Government. The coordination team is composed by membres from the Catalan Agency of Water, the Catalan Public Health Agency and the Catalan Institute for Water Research.",
+  "version": "1.3",
+  "upload_type": "dataset",
+  "keywords": [
+    "SARS-CoV-2, sewage based epidemiology, wastewater treatment plant"
+  ],
+  "publication_date": "2020-10-30",
+  "creators": [
+  {
+    "orcid": "0000-0002-5050-2389",
+    "affiliation": "Technologies and Evaluation Area, Catalan Institute for Water Research",
+    "name": "Llu\u00eds Coromines"
+  },
+  {
+    "affiliation": "Technologies and Evaluation Area, Catalan Institute for Water Research",
+    "name": "Neus Collado"
+  },
+  {
+    "orcid": "0000-0003-1978-9067",
+    "affiliation": "Water Quality and Microbial Diversity, Water Quality, Catalan Institute for Water Research",
+    "name": "Laura Guerrero-Latorre"
+  },
+  {
+    "orcid": "0000-0001-7287-5437",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Centre for Omic Sciences (COS), Joint Unit Universitat Rovira i Virgili-EURECAT, Unique Scientific and Technical Infrastructures (ICTS), Reus, Sp",
+    "name": "Nerea Abasolo-Zabalo"
+  },
+  {
+    "orcid": "0000-0002-8328-3872",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Eduard Anfruns-Estrada"
+  },
+  {
+    "orcid": "0000-0002-1340-3509",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Spain.",
+    "name": "Gabriel Anzaldi-Varas"
+  },
+  {
+    "orcid": "0000-0001-8581-7180",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "S\u00edlvia Bofill-Mas"
+  },
+  {
+    "orcid": "0000-0002-8111-9059",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Albert Bosch"
+  },
+  {
+    "affiliation": "University of Girona",
+    "name": "Llu\u00eds Bosch-Llad\u00f3"
+  },
+  {
+    "orcid": "0000-0001-6144-0294",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, \u00c1rea de Biotecnologia, Reus, Spain",
+    "name": "Antoni Caimari-Palou"
+  },
+  {
+    "orcid": "0000-0003-0261-2396",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Centre for Omic Sciences (COS), Joint Unit Universitat Rovira i Virgili-EURECAT, Unique Scientific and Technical Infrastructures (ICTS), Reus, Spain.",
+    "name": "N\u00faria Canela-Canela"
+  },
+  {
+    "orcid": "0000-0003-3933-8693",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Gemma Chavarria-Mir\u00f3"
+  },
+  {
+    "orcid": "0000-0002-0700-2004",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Unitat de Nutrici\u00f3 i Salut, Reus, Spain",
+    "name": "Josep M del Bas-Prior"
+  },
+  {
+    "affiliation": "Software Development Unit, Eurecat, Centre Tecnol\u00f2gic de Catalunya, Spain.",
+    "name": "Yaimara Espi\u00f1eira-Robaina"
+  },
+  {
+    "orcid": "0000-0003-1076-6379",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Eva For\u00e9s-Gil"
+  },
+  {
+    "orcid": "0000-0002-6136-1593",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Cristina Fuentes"
+  },
+  {
+    "orcid": "0000-0002-1097-6395",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Rosina Giron\u00e9s"
+  },
+  {
+    "orcid": "0000-0002-1588-3198",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Susana Guix"
+  },
+  {
+    "orcid": "0000-0003-2853-0153",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Ayalkibet Hundesa"
+  },
+  {
+    "orcid": "0000-0002-0314-0768",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Marta Itarte"
+  },
+  {
+    "orcid": "0000-0002-0924-4920",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Unitat de Nutrici\u00f3 i Salut, Reus, Spain.",
+    "name": "Roger Marin\u00e9-Casad\u00f3"
+  },
+  {
+    "orcid": "0000-0002-7549-9614",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Sandra Mart\u00ednez-Puchol"
+  },
+  {
+    "orcid": "0000-0002-4987-5479",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Ad\u00e1n Mart\u00ednez-Vel\u00e1zquez"
+  },
+  {
+    "orcid": "0000-0003-1382-6648",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Rosa M Pint\u00f3"
+  },
+  {
+    "orcid": "0000-0002-6546-8857",
+    "affiliation": "Laboratory of Virus Contaminants of Water and Food, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Marta Rusi\u00f1ol"
+  },
+  {
+    "orcid": "0000-0002-3455-5923",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Unitat de Nutrici\u00f3 i Salut, Reus, Spain.",
+    "name": "Joan Teichenne-Jan\u00e9"
+  },
+  {
+    "orcid": "0000-0001-5487-4289",
+    "affiliation": "Eurecat, Centre Tecnol\u00f2gic de Catalunya, Centre for Omic Sciences (COS), Joint Unit Universitat Rovira i Virgili-EURECAT, Unique Scientific and Technical Infrastructures (ICTS), Reus, Spain.",
+    "name": "Helena Torrell-Galceran"
+  },
+  {
+    "orcid": "0000-0002-0286-9901",
+    "affiliation": "Enteric Virus Laboratory, Department of Genetics, Microbiology and Statistics, Faculty of Biology, University of Barcelona, Barcelona, Spain",
+    "name": "Mario V\u00e1zquez-Portero"
+  },
+  {
+    "orcid": "0000-0002-2708-3753",
+    "affiliation": "Water Quality and Microbial Diversity, Water Quality, Catalan Institute for Water Research",
+    "name": "Carles Borrego"
+  }
+  ],
+  "access_right": "open",
+  "description": "<p>The Catalan Surveillance&nbsp;Network of SARS-CoV-2 in Sewage&nbsp;started&nbsp;in July 2020&nbsp;to monitor 56&nbsp;wastewater treatment plants (WWTPs)&nbsp;all over the country representing the sewage from the&nbsp;80% of the total population.&nbsp;&nbsp;The sampling plan consist in a weekly collection of&nbsp;24 hours-composed-flow proportional&nbsp;water sample&nbsp;from&nbsp;the entrance of&nbsp;each&nbsp;WWTPs.&nbsp;The raw sewage samples are send to references laboratories for&nbsp;analysis within 24h after collection.&nbsp;Samples are concentrated, the RNA extracted and finally amplyfied using two target genes (N1/N2 or N1/IP4).</p>\n\n<p>Here, we periodically release the dataset of the results obtained for each WWTP analysed with sampling date, gene copies per litre for each viral target, the daily flow from the WWTP, rain events registered and extra comments.</p>"
+}
