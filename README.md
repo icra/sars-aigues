@@ -5,4 +5,4 @@
 - Dades de concentració de diversos gens del virus SARS-CoV-2 calculades a 56
   depuradores catalanes, expressades en CG/L (còpies genòmiques per litre
   d'aigua residual).
-- visor de les dades: https://sarsaigua.icra.cat/
+- Visor de les dades: https://sarsaigua.icra.cat/
