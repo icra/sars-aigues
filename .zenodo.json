@@ -285,7 +285,7 @@
    "creators" : [
       {
          "affiliation" : "Technologies and Evaluation Area, Catalan Institute for Water Research",
-         "name" : "Lluís Coromines",
+         "name" : "Lluís Corominas",
          "orcid" : "0000-0002-5050-2389"
       },
       {
@@ -433,7 +433,6 @@
    "language" : "cat",
    "license" : "other-open",
    "notes" : "This program is funded by the Catalan Government. The coordination team is composed by membres from the Catalan Agency of Water, the Catalan Public Health Agency and the Catalan Institute for Water Research.",
-   "publication_date" : "2020-10-30",
    "related_identifiers" : [
       {
          "identifier" : "https://github.com/icra/sars-aigues/",
@@ -443,5 +442,6 @@
    ],
    "title" : "Catalan Surveillance Network of SARS-CoV-2 in Sewage",
    "upload_type" : "dataset",
-   "version" : "1.3"
+   "version" : "1.44",
+   "publication_date" : "2020-11-09"
 }
