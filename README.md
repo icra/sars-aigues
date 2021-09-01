@@ -16,7 +16,7 @@ https://doi.org/10.5281/zenodo.4147073
 
   * __id mostra__: Identificador de la mostra (XXXX-aaaa-mm-dd)
   * __depuradora__: Nom de la depuradora
-  * __LD (CG/L)__: Còpia genòmiques del límit de detecció teòric equivalent al mínim de copies detectables. Concentracions de les dianes N1, N2, IP4 i E iguals a aquest valor corresponen a reaccions sense senyal detectable (N1, N2, IP4, E = LD à No Detectat)
+  * __LD (CG/L)__: Còpia genòmiques del límit de detecció teòric equivalent al mínim de copies detectables. Concentracions de les dianes N1, N2, IP4 i E iguals a aquest valor corresponen a reaccions sense senyal detectable (N1, N2, IP4, E = LD &rarr; No Detectat)
   * __N1 (CG/L)__: Còpia genòmiques de la diana N1 (fragment de la Nucleocapsida) per litre d’aigua residual
   * __N2 (CG/L)__: Còpia genòmiques de la diana N2 (fragment de la Nucleocapsida) per litre d’aigua residual
   * __IP4 (CG/L)__: Còpia genòmiques de la diana IP4 (fragment de la Polimerasa Viral) per litre d’aigua residual
